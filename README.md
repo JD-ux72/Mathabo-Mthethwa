@@ -9,8 +9,8 @@
 
 
 <br>
-
-- I believe technology is most powerful when it creates opportunities. As an aspiring Data Scientist, I am passionate about uncovering meaningful insights, solving complex problems, and building solutions that improve lives. My work spans data science, machine learning, software development, and community-driven innovation. Through every project, I strive to bridge the gap between possibility and reality—transforming ideas into solutions, data into decisions, and challenges into opportunities. [sight_7](https://github.com/JD-ux72/Gov_proj)
+<h3> align="center" My story</h3>
+<i> align="center" I believe technology is most powerful when it creates opportunities. As an aspiring Data Scientist, I am passionate about uncovering meaningful insights, solving complex problems, and building solutions that improve lives. My work spans data science, machine learning, software development, and community-driven innovation. Through every project, I strive to bridge the gap between possibility and reality—transforming ideas into solutions, data into decisions, and challenges into opportunities.<i> [sight_7](https://github.com/JD-ux72/Gov_proj)
 <br>
 
 - <b>📫 How to reach me<b> **dwanaymthethwa@gmail.com**
