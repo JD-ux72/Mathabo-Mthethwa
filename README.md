@@ -1,13 +1,15 @@
  <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="500%" />
 <p1 align="center">Answers already exist. I build the questions that reveal them. <i>Mathabo Mthethwa</i></p1>
 <h4 align="center">Data Scientist intern | Builder of intelligent solutions | Founder of sight_7 | Driven by Data, Purpose and Impact </h4>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JD-ux72&label=Profile%20views&color=0e75b6&style=flat" alt="JD-ux72" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JD-ux72&theme=matrix" alt="JD-ux72" /></a> </p>
+
 <br>
 
 - I believe technology is most powerful when it creates opportunities. As an aspiring Data Scientist, I am passionate about uncovering meaningful insights, solving complex problems, and building solutions that improve lives. My work spans data science, machine learning, software development, and community-driven innovation. Through every project, I strive to bridge the gap between possibility and reality—transforming ideas into solutions, data into decisions, and challenges into opportunities. [sight_7](https://github.com/JD-ux72/Gov_proj)
+<br>
 
 - 📫 How to reach me **dwanaymthethwa@gmail.com**
 
