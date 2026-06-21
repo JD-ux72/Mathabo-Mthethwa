@@ -15,7 +15,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/Mathabo Mthethwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Mathabo Mthethwa" height="30" width="40" /></a></p>
 
 <br>
