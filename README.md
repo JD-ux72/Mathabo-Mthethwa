@@ -1,6 +1,7 @@
  <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="500%" />
 <p1 align="center">Answers already exist. I build the questions that reveal them. <i>Mathabo Mthethwa</i></p1>
 <h4 align="center">Data Scientist intern | Builder of intelligent solutions | Founder of sight_7 | Driven by Data, Purpose and Impact </h4>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JD-ux72&label=Profile%20views&color=0e75b6&style=flat" alt="JD-ux72" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JD-ux72&theme=matrix" alt="JD-ux72" /></a> </p>
