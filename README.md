@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JD-ux72&label=Profile%20views&color=0e75b6&style=flat" alt="JD-ux72" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JD-ux72&theme=matrix" alt="JD-ux72" /></a> </p>
-
+<br>
+<img src= "https://github.com/JD-ux72/Mathabo-Mthethwa/issues/1#issue-4710873709" width = "100%" />
 - I believe technology is most powerful when it creates opportunities. As an aspiring Data Scientist, I am passionate about uncovering meaningful insights, solving complex problems, and building solutions that improve lives. My work spans data science, machine learning, software development, and community-driven innovation. Through every project, I strive to bridge the gap between possibility and reality—transforming ideas into solutions, data into decisions, and challenges into opportunities. [sight_7](https://github.com/JD-ux72/Gov_proj)
 
 - 📫 How to reach me **dwanaymthethwa@gmail.com**
