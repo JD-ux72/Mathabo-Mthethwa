@@ -2,7 +2,9 @@
 <p1 align="center">Answers already exist. I build the questions that reveal them. <i>Mathabo Mthethwa</i></p1>
 <h4 align="center">Data Scientist intern | Builder of intelligent solutions | Founder of sight_7 | Driven by Data, Purpose and Impact </h4>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JD-ux72&label=Profile%20views&color=0e75b6&style=flat" alt="JD-ux72" /> </p>
 
 
@@ -11,7 +13,7 @@
 - I believe technology is most powerful when it creates opportunities. As an aspiring Data Scientist, I am passionate about uncovering meaningful insights, solving complex problems, and building solutions that improve lives. My work spans data science, machine learning, software development, and community-driven innovation. Through every project, I strive to bridge the gap between possibility and reality—transforming ideas into solutions, data into decisions, and challenges into opportunities. [sight_7](https://github.com/JD-ux72/Gov_proj)
 <br>
 
-- 📫 How to reach me **dwanaymthethwa@gmail.com**
+- <b>📫 How to reach me<b> **dwanaymthethwa@gmail.com**
 
 <div> <a href="https://www.linkedin.com/in/Mathabo Mthethwa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/JD-ux72" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -19,6 +21,7 @@
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/Mathabo Mthethwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Mathabo Mthethwa" height="30" width="40" /></a></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
