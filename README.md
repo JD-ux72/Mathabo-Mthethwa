@@ -16,7 +16,7 @@
 <br>
 
 
-  
+<img src="https://raw.githubusercontent.com/JD-ux72/Mathabo-Mthethwa/main/about-card.svg">  
 <i>  I believe technology is most powerful when it creates opportunities. As an aspiring Data Scientist, I am passionate about uncovering meaningful insights, solving complex problems, and building solutions that improve lives. My work spans data science, machine learning, software development, and community-driven innovation. Through every project, I strive to bridge the gap between possibility and reality—transforming ideas into solutions, data into decisions, and challenges into opportunities.</i> [sight_7](https://github.com/JD-ux72/Gov_proj)
 
  
