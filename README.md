@@ -15,11 +15,10 @@
 
 <br>
 
-<p align="center">
-  <img src="about-card.svg" width="850">
+
   
 <i>  I believe technology is most powerful when it creates opportunities. As an aspiring Data Scientist, I am passionate about uncovering meaningful insights, solving complex problems, and building solutions that improve lives. My work spans data science, machine learning, software development, and community-driven innovation. Through every project, I strive to bridge the gap between possibility and reality—transforming ideas into solutions, data into decisions, and challenges into opportunities.</i> [sight_7](https://github.com/JD-ux72/Gov_proj)
-</p>
+
  
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
