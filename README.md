@@ -7,6 +7,57 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JD-ux72&label=Profile%20views&color=0e75b6&style=flat" alt="JD-ux72" /> </p>
 
+<div class="background"></div>
+
+<style>
+body{
+    margin:0;
+    overflow:hidden;
+}
+
+.background{
+    position:fixed;
+    inset:0;
+
+    background:
+    radial-gradient(
+        circle at 20% 20%,
+        rgba(255,255,255,0.7),
+        transparent 35%
+    ),
+
+    radial-gradient(
+        circle at 80% 70%,
+        rgba(255,255,255,0.4),
+        transparent 40%
+    ),
+
+    linear-gradient(
+        135deg,
+        #F8F4EF 0%,
+        #F2EAE2 35%,
+        #E9DDD0 70%,
+        #DCCBBC 100%
+    );
+
+    animation: gradientMove 12s ease infinite;
+    background-size: 150% 150%;
+}
+
+@keyframes gradientMove{
+    0%{
+        background-position:0% 50%;
+    }
+
+    50%{
+        background-position:100% 50%;
+    }
+
+    100%{
+        background-position:0% 50%;
+    }
+}
+</style>
 
 <br>
 
