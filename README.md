@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Mathabo+Mthethwa;Data+Scientist;Founder+of+Sight_7;Building+Technology+With+Purpose" />
-</p> src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p> 
 
 <br>
 
