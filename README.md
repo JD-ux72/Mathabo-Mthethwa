@@ -9,7 +9,9 @@
 
 <br>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JD-ux72&label=PROFILE+VIEWS&color=0969DA&style=for-the-badge" />
+</p>
 
 <br>
 
