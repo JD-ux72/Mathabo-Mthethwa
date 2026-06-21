@@ -9,7 +9,7 @@
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JD-ux72&label=Profile%20views&color=0e75b6&style=flat" alt="JD-ux72" /> </p>
+<img src="https://komarev.com/ghpvc/?username=JD-ux72&label=Profile%20views&color=0e75b6&style=flat" alt="JD-ux72" /> 
 
 
 <br>
