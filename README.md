@@ -4,7 +4,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Mathabo+Mthethwa;Data+Scientist;Founder+of+Sight_7;Building+Technology+With+Purpose" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Mathabo+Mthethwa;Data+Scientist;Founder+of+Sight_7;Data++With+readiness;Founder+of+THink+DWanaY" />
 </p> 
 
 <br>
