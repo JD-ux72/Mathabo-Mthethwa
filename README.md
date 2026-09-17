@@ -15,10 +15,18 @@
 
 <br>
 
+<p>
 
-  
-<i>  I believe technology is most powerful when it creates opportunities. As an aspiring Data Scientist, I am passionate about uncovering meaningful insights, solving complex problems, and building solutions that improve lives. My work spans data science, machine learning, software development, and community-driven innovation. Through every project, I strive to bridge the gap between possibility and reality—transforming ideas into solutions, data into decisions, and challenges into opportunities.</i> [sight_7](https://github.com/JD-ux72/Gov_proj)
- 
+I am a self-taught Data Scientist who began at 16, not in pursuit of tools, but in pursuit of thought itself. For knowledge without thinking is just noise.
+
+I came to understand data for what it truly is: memory made visible. It is the archive of what was, the mirror of what is hidden, and the prophecy of what is yet to come. Data does not speak loudly. It reveals.
+
+I hold that chance favours the prepared mind, therefore my craft is not building — it is preparation. I do not code to understand the problem; I understand the problem before I am worthy to code. I sit with it. I interrogate its roots, its patterns, its silence. For what is built without depth cannot endure.
+
+To me, data was never numbers. Numbers are merely its form. Its essence is story, human, waiting to be decoded by the attuned.
+
+I work at the intersection of Data Science, AI, and creativity — through Machine Learning, Python, SQL, visualisation, GIS — but these are only vessels. The true work is translation. Anyone can read data, but few are still enough to hear it. It takes patience to listen beyond the surface, discipline to question what others accept, and vision to turn revelation into meaning.
+ </p>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
