@@ -21,7 +21,7 @@ I am a self-taught Data Scientist who began at 16, not in pursuit of tools, but 
 
 I came to understand data for what it truly is: memory made visible. It is the archive of what was, the mirror of what is hidden, and the prophecy of what is yet to come. Data does not speak loudly. It reveals.
 
-I believe that chance favours the prepared mind, therefore my craft is not building — it is preparation. I do not code to understand the problem; I understand the problem before I am worthy to code. I sit with it. I interrogate its roots, its patterns, its silence. For what is built without depth cannot endure.
+I believe that chance favours the prepared mind, therefore my craft is not only building — it is grounded in the preparation. I do not code to understand the problem; I understand the problem before I am worthy to code. I sit with it. I interrogate its roots, its patterns and its silence. For what is built without depth cannot endure.
 
 To me, data was never numbers. Numbers are merely its form. Its essence is story, human, waiting to be decoded by the attuned.
  </p>
