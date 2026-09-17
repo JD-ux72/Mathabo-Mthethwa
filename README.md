@@ -24,8 +24,6 @@ I came to understand data for what it truly is: memory made visible. It is the a
 I hold that chance favours the prepared mind, therefore my craft is not building — it is preparation. I do not code to understand the problem; I understand the problem before I am worthy to code. I sit with it. I interrogate its roots, its patterns, its silence. For what is built without depth cannot endure.
 
 To me, data was never numbers. Numbers are merely its form. Its essence is story, human, waiting to be decoded by the attuned.
-
-I work at the intersection of Data Science, AI, and creativity — through Machine Learning, Python, SQL, visualisation, GIS — but these are only vessels. The true work is translation. Anyone can read data, but few are still enough to hear it. It takes patience to listen beyond the surface, discipline to question what others accept, and vision to turn revelation into meaning.
  </p>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
